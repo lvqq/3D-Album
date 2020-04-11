@@ -1,2 +1,3 @@
-# 3D-Album
-3D相册
+# 3DAlbum
+
+- [3D相册](https://lvqq.github.io/3D-Album/)
